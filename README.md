@@ -1,5 +1,5 @@
 <h1 align="center">Hello there. I'm Denis</h1>
-<h3 align="center">Backend Software Engineer </h3>
+<h3 align="center">QA Engineer — Manual & Automated Testing (Playwright / Java / TypeScript) | REST API, SQL | </h3>
 
 <div align="left">
 <p style="text-align: left; display: inline-block;"> <img src="https://komarev.com/ghpvc/?username=Kochemaskin&label=Profile%20views&color=0e75b6&style=flat" alt="Kochemaskin" /> </p>
